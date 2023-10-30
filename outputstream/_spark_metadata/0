@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/abdullah/pySpark/stream%20assignment/outputstream/part-00000-c68f2bac-8e5d-4d6f-b7b0-b414304489d0-c000.csv","size":3965,"isDir":false,"modificationTime":1696543827581,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/abdullah/pySpark/stream%20assignment/outputstream/part-00001-b80145d8-cb4f-455c-869c-dc4523ed9b4c-c000.csv","size":3934,"isDir":false,"modificationTime":1696543827577,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/abdullah/pySpark/stream%20assignment/outputstream/part-00002-e9bdf35e-aa24-4ca3-a420-47786a582a41-c000.csv","size":3846,"isDir":false,"modificationTime":1696543827577,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/abdullah/pySpark/stream%20assignment/outputstream/part-00003-04d2f270-d812-438e-a5a3-87de0c02fbdc-c000.csv","size":3901,"isDir":false,"modificationTime":1696543827577,"blockReplication":1,"blockSize":33554432,"action":"add"}

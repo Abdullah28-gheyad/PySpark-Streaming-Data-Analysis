@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/abdullah/pySpark/stream%20assignment/InputStream/KOSPI_STOCK_2.csv","timestamp":1655296692000,"batchId":0}
+{"path":"file:///home/abdullah/pySpark/stream%20assignment/InputStream/KOSPI_STOCK_3.csv","timestamp":1655296692000,"batchId":0}
+{"path":"file:///home/abdullah/pySpark/stream%20assignment/InputStream/KOSPI_STOCK_1.csv","timestamp":1655296692000,"batchId":0}
+{"path":"file:///home/abdullah/pySpark/stream%20assignment/InputStream/KOSPI_STOCK_0.csv","timestamp":1655296692000,"batchId":0}

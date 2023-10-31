@@ -1,10 +1,10 @@
-PySpark Streaming Data Analysis
-PySpark Logo
+# PySpark Streaming Data Analysis
+![0_VJh2S2gupfwFhi28](https://github.com/Abdullah28-gheyad/PySpark-Streaming-Data-Analysis/assets/68871710/3a91b8cc-ae15-4862-a613-511b3abecc0d)
 
-Overview
+# Overview
 This project demonstrates how to use PySpark to perform streaming data analysis on a set of CSV files. It includes reading streaming data, processing it, and writing the results to files. We will go through the steps of creating a streaming DataFrame, performing data transformations, and writing the results to output files.
 
-Prerequisites
+# Prerequisites
 Before you get started, make sure you have the following:
 
 Python: Ensure that you have Python installed on your system, preferably Python 3.x.
@@ -51,11 +51,4 @@ You can access the results in the generated output files located in the "outputs
 Contributing
 If you find any issues, have suggestions for improvements, or would like to contribute to this project, please feel free to open an issue or create a pull request. We welcome collaboration and contributions from the community.
 
-License
-This project is licensed under the MIT License. You are free to use and modify this code for your own projects, but we kindly request attribution to the original source.
 
-Contact
-If you have any questions or need further assistance, please feel free to contact [Your Name] at [Your Email Address].
-
-Happy Streaming!
-We hope you find this PySpark streaming data analysis project useful for handling and processing real-time data streams. Enjoy your streaming adventures!
